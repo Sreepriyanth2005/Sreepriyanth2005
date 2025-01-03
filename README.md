@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreepriyanth2005&show_icons=true&locale=en&layout=compact" alt="sreepriyanth2005"  width=350 height=250/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreepriyanth2005&show_icons=true&locale=en" alt="sreepriyanth2005" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreepriyanth2005&show_icons=true&locale=en" alt="sreepriyanth2005" width=500 height=250 /></p>
 
 <p> <img align="center" src="https://leetcard.jacoblin.cool/sreepriyanth2005?theme=wtf&font=Noto%20Sans%20Bhaiksuki&ext=heatmap" alt="sreepriyanth2005" > </p>
 
